@@ -122,11 +122,11 @@ int main(int argc, char* argv[])
 	printf("k = %i, f = %i\n\n", k, f);
 	*/
 	printf("Задание №4\n");
-	//printf("3x^2 - 4x + 1 = 0\n");
-	//printf("x^2 + 4x + 4 = 0\n");
-	printf("x^2 + 6x + 45 = 0\n");
+	printf("3x^2 - 4x + 1 = 0\n");	//	два корня
+	//printf("x^2 + 4x + 4 = 0\n");		//	один корень
+	//printf("x^2 + 6x + 45 = 0\n");		//	нет решений
 
-	double a = 1, b = 6, c = 5;
+	double a = 3, b = -4, c = 1;
 
 	Func4(a, b, c);
 
@@ -149,7 +149,7 @@ void Func4(double a, double b, double c)
 	{
 		printf("Есть один корень квадратного уравнения.\n");
 		x1 = -b / 2 * a;
-		printf("x = %.2f\n", x1);
+		printf("x1 = %.2f\n", x1);
 	}
 	else if (d > 0)
 	{
