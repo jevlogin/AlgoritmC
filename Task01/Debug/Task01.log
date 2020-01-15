@@ -1,11 +1,7 @@
-﻿  Main.c
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(41,31): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(122,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(116,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Tasks.c
+C:\Users\Евгений\OneDrive\C project\Task01\Task01\Tasks.c(23,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Евгений\OneDrive\C project\Task01\Task01\Tasks.c(17,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(118,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Евгений\OneDrive\C project\Task01\Task01\Tasks.c(19,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(210,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(47): warning C4715: IndexMass: значение возвращается не при всех путях выполнения
-C:\Users\Евгений\OneDrive\C project\Task01\Task01\Main.c(66): warning C4716: MaxFour: должна возвращать значение
   Task01.vcxproj -> C:\Users\Евгений\OneDrive\C project\Task01\Debug\Task01.exe
